@@ -1,4 +1,4 @@
-# Bootcamp Inter Frontend Developer (React e Node) da DIO!
+# Curso Impulso Javascript Evolution da DIO!
 
 - Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 
