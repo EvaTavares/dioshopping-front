@@ -21,6 +21,6 @@
 2. npm i
 3. npm run dev
 
-4. Clone o repositório de front-end https://github.com/EvaTavares/dioshopping
+4. Clone o repositório de front-end https://github.com/EvaTavares/dioshopping-front
 5. npm i
 6. npm start
